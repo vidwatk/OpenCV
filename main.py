@@ -22,7 +22,7 @@ while True:
     #for(x, y, width, height) in faces:
     #    cv2.rectangle(frame, (x, y), (x+ width, y + height), (255, 0, 0, 3)) #frame drawn, 2 corners, colour, l thickness
 
-    #detect bodies
+    #detect body
     #for (x, y, width, height) in bodies:
     #    cv2.rectangle(frame, (x, y), (x + width, y + height),(255, 0, 0, 3))  # frame drawn, 2 corners, colour, l thickness
 
